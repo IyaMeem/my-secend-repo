@@ -1,0 +1,120 @@
+
+body{
+	background-color:#f0f0f0;
+}
+.header{
+	text-align:center;color:rgb(120, 120, 120);margin:100px 60px;
+}
+h2{
+	font-size:25px;transition:0.6s;
+}
+h2:hover{
+color:DodgerBlue;text-shadow:0px 0px 18px #666;
+}
+p{
+	color:rgb(180, 180, 180);
+}
+p:hover{
+	color:DodgerBlue;
+}
+i{
+	font-size:30px;margin:10px;padding:5px;
+	background:rgb(60, 179, 113);
+	color: #fff;
+
+}
+.videos making{
+	width:580px;height:150px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.mim{
+	width:580px;height:150px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.mim:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.alamin{
+	width:580px;height:150px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.alamin:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.lata{
+	width:218px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.lata:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.jubu{
+	width:217px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.jubu:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.ayesha{
+	width:218px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.ayesha:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.tithi{
+	width:217px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.tithi:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.class1{
+	width:218px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.class1:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.class2{
+	width:218px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.class2:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.class3{
+	width:218px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.class3:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.class4{
+	width:218px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.class4:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.class5{
+	width:217px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.class5:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.class6{
+	width:217px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.class6:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
+.class7{
+	width:218px;height:100px;background-color:rgb(255, 255, 255);
+	margin:10px;float:left;transition:0.6s;
+}
+.class7:hover{
+	color:DodgerBlue;box-shadow:0px 0px 18px #666;
+}
